@@ -1,0 +1,7 @@
+Origin: emcpow2.github.io/debian
+Label: emcpow2.github.io/debian
+Codename: buster
+Architectures: amd64
+Components: main
+Description: Personal repository
+SignWith: D3C2251CB0965C4E0032908ED95946D27762B463

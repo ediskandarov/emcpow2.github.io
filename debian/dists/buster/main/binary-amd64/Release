@@ -1,0 +1,5 @@
+Component: main
+Origin: emcpow2.github.io/debian
+Label: emcpow2.github.io/debian
+Architecture: amd64
+Description: Personal repository

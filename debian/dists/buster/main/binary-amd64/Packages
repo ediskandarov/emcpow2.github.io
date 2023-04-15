@@ -1,0 +1,787 @@
+Package: cprocsp-apache-modssl-64
+Version: 5.0.12000-6
+Architecture: amd64
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 678
+Depends: libc6, libgcc1, libstdc++6
+Priority: extra
+Section: alien
+Filename: pool/main/c/cprocsp-apache-modssl-64/cprocsp-apache-modssl-64_5.0.12000-6_amd64.deb
+Size: 258276
+SHA256: 1fc7f7f69414a3ed36c42eb616fb9671713f3640efd4707c683f0505a7d31ec8
+SHA1: eb3ee20d904c7123d38bba19e6b9a2e5260a8acd
+MD5sum: ec6552c7d06949035db989d21f64fe0a
+Description: CryptoPro apache module ssl. Build 12000.
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: cprocsp-compat-debian
+Version: 1.0.0-1
+Architecture: all
+Maintainer: Andrey Rusev <raa@cryptopro.ru>
+Installed-Size: 1000
+Depends: lsb-base (>=3.0)
+Provides: lsb-core-noarch
+Conflicts: lsb-core-noarch, lsb-core, lsb-compat
+Priority: extra
+Section: libs
+Filename: pool/main/c/cprocsp-compat-debian/cprocsp-compat-debian_1.0.0-1_all.deb
+Size: 1424
+SHA256: fe1f2a734f0bb1873cb761164ce0eab1cdecd9ddd768d0100a8f200981d319f3
+SHA1: cfd0d069911d7266e3d4e3a77465ee85e3003460
+MD5sum: a3ea9d19921e087bd99542a6befa6e69
+Description: CryptoPro CSP compatibility extension for non-LSB Debian/Ubuntu
+ The Linux Standard Base (http://www.linuxbase.org/) is a standard
+ core system that third-party applications written for Linux can
+ depend upon.
+ This package provides some parts of the Linux Standard Base for Debian/Ubuntu
+ to support CryptoPro CSP.
+
+Package: cprocsp-cptools-gtk-64
+Version: 5.0.12000-6
+Architecture: amd64
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 7649
+Depends: libc6, libgcc1, libstdc++6, lsb-cprocsp-capilite-64 (>= 5.0), lsb-cprocsp-capilite-64 (<< 6.0)
+Priority: extra
+Section: alien
+Filename: pool/main/c/cprocsp-cptools-gtk-64/cprocsp-cptools-gtk-64_5.0.12000-6_amd64.deb
+Size: 3055752
+SHA256: 4de867bb5c10f12b1e7b02b322d6c70c82fa81fb6e0bc634dd43eba5ae44d456
+SHA1: bd717c90b860e89668e9213a67834709521c4fed
+MD5sum: 062e60951110e853c3c3d681f990a0a1
+Description: GUI application for various CSP tasks. Build 12000.
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: cprocsp-curl-64
+Version: 5.0.12000-6
+Architecture: amd64
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 1694
+Depends: libc6 (>= 2.7), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.1.1), lsb-cprocsp-capilite-64 (>= 5.0), lsb-cprocsp-rdr-64, zlib1g (>= 1:1.1.4), lsb-cprocsp-capilite-64 (<< 6.0)
+Priority: extra
+Section: alien
+Filename: pool/main/c/cprocsp-curl-64/cprocsp-curl-64_5.0.12000-6_amd64.deb
+Size: 625830
+SHA256: 4391dd2a7943c469151a7666b6fb2c873821a1b43c9bdcac62e5f89b61f5fdab
+SHA1: 207be6f89cbcf206fb3a25e3b9339b409a1e12b4
+MD5sum: bbdd4bb570a874e77159018fae9f984d
+Description: CryptoPro cURL shared library and application. Build 12000.
+ Curl is a command line tool for transferring data with URL syntax (supports GOST TLS)
+ .
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: cprocsp-pki-cades-64
+Version: 2.0.14660-1
+Architecture: amd64
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 64004
+Depends: libc6 (>= 2.3.4), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.1.1), lsb-cprocsp-capilite-64, lsb-cprocsp-rdr-64
+Provides: cprocsp-pki-cades
+Priority: extra
+Section: alien
+Filename: pool/main/c/cprocsp-pki-cades-64/cprocsp-pki-cades-64_2.0.14660-1_amd64.deb
+Size: 17318308
+SHA256: 5216e9705e99523af65a51338a7086c5f8d676a06aa3ae16c4aced3f8bcdcfe9
+SHA1: fe792c57ae46f175707b3adde20dd7281c3d1523
+MD5sum: 1ff5cbe939a6173cb0fa40c464971cef
+Description: CryptoPro ECP SDK
+ This package contains libraries and utilities for CryptoPro ECP SDK
+ .
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: cprocsp-pki-phpcades-64
+Version: 2.0.14660-1
+Architecture: amd64
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 314
+Depends: libc6, libgcc1, libstdc++6, lsb-cprocsp-capilite-64
+Provides: cprocsp-pki-cades, cprocsp-pki-phpcades
+Priority: extra
+Section: alien
+Filename: pool/main/c/cprocsp-pki-phpcades-64/cprocsp-pki-phpcades-64_2.0.14660-1_amd64.deb
+Size: 43690
+SHA256: e9f8a5ecaf629d98c0b94bc5deba24270065fb90c143505734feb3e07a24b558
+SHA1: 9d1d7248ce622b0e6846421b05d608129e70f638
+MD5sum: 0e9d244dbac06000c20be253b8997879
+Description: CryptoPro ECP SDK PHP extension
+ This package contains source code for CryptoPro ECP SDK PHP extension
+ .
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: cprocsp-pki-plugin-64
+Version: 2.0.14660-1
+Architecture: amd64
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 3618
+Depends: libc6, libgcc1, libstdc++6, lsb-cprocsp-capilite-64, cprocsp-pki-cades, cprocsp-rdr-gui-gtk-64
+Provides: cprocsp-pki-plugin
+Priority: extra
+Section: alien
+Filename: pool/main/c/cprocsp-pki-plugin-64/cprocsp-pki-plugin-64_2.0.14660-1_amd64.deb
+Size: 931742
+SHA256: cd031d72b10645e4163746ad4696cc91facadf994d5f221b61e79bc40c187104
+SHA1: e63d4565793ac0e95006d5f007f83b1e0ae1ed5c
+MD5sum: 4e34b6f78635580be408cf69659513b2
+Description: CryptoPro ECP Browser plug-in
+ This package contains libraries for CryptoPro Browser plug-in
+ .
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: cprocsp-rdr-cloud-64
+Version: 5.0.12000-6
+Architecture: amd64
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 1324
+Depends: libc6 (>= 2.7), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.4.0), lsb-cprocsp-capilite-64 (>= 5.0), lsb-cprocsp-rdr-64, lsb-cprocsp-capilite-64 (<< 6.0)
+Priority: extra
+Section: alien
+Filename: pool/main/c/cprocsp-rdr-cloud-64/cprocsp-rdr-cloud-64_5.0.12000-6_amd64.deb
+Size: 385116
+SHA256: fe627f707d639f8cc6cb7ff7b23c1091aa305057e4f90e09f8adb6a115d0e825
+SHA1: 9738c44998aa20d1edb4e233f9cc13fd71e923fd
+MD5sum: f53e1af86585e592c8c849c5d66b1616
+Description: DSS keys support module
+ This package contains module for DSS keys support in Crypto Pro CSP
+ .
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: cprocsp-rdr-cloud-gtk-64
+Version: 5.0.12000-6
+Architecture: amd64
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 65
+Depends: libc6, libgcc1, libstdc++6, libwebkitgtk-1.0-0 | webkit, cprocsp-rdr-cloud-64 (>= 5.0), cprocsp-rdr-cloud-64 (<< 6.0)
+Priority: extra
+Section: alien
+Filename: pool/main/c/cprocsp-rdr-cloud-gtk-64/cprocsp-rdr-cloud-gtk-64_5.0.12000-6_amd64.deb
+Size: 7874
+SHA256: 21306db99c3c68613094036d00ec5949c7f058d170d58833560043a3750ad218
+SHA1: 78b710602d855928aeee20cd1a00fd3016609bb0
+MD5sum: 95e2305b0cf527643b5534ea977cda81
+Description: Graphical interface for DSS authentication
+ This package contains graphical interface for authentication in Crypto Pro DSS
+ .
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: cprocsp-rdr-cpfkc-64
+Version: 5.0.12000-6
+Architecture: amd64
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 135
+Depends: libc6 (>= 2.2.5), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.1.1), lsb-cprocsp-rdr-64, cprocsp-rdr-pcsc-64 (>= 5.0), cprocsp-rdr-pcsc-64 (<< 6.0)
+Priority: extra
+Section: alien
+Filename: pool/main/c/cprocsp-rdr-cpfkc-64/cprocsp-rdr-cpfkc-64_5.0.12000-6_amd64.deb
+Size: 40034
+SHA256: 071d5be3532b86503fd8e9367578fbca7b441e9ebdaeaacb2ef29e8cb70a70e2
+SHA1: 69012342f88fa21306a24d624455e14913761f36
+MD5sum: 31ed1abe23314cd7b73e284afc02833c
+Description: FKC support module
+ This package contains support module for FKC carriers in Crypto Pro CSP
+ .
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: cprocsp-rdr-cryptoki-64
+Version: 5.0.12000-6
+Architecture: amd64
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 182
+Depends: libc6 (>= 2.4), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.4.0), lsb-cprocsp-rdr-64 (>= 5.0), lsb-cprocsp-rdr-64 (<< 6.0)
+Priority: extra
+Section: alien
+Filename: pool/main/c/cprocsp-rdr-cryptoki-64/cprocsp-rdr-cryptoki-64_5.0.12000-6_amd64.deb
+Size: 61534
+SHA256: 1befe61371c59255dbf4736bc622aa9224cead967220c57a78d044545371b398
+SHA1: 98a5a4161e4d21d4491eb87dcaab02ebd0fb319d
+MD5sum: 6445001abdc6800161084b4459afa199
+Description: Module for PKCS11 keys support. Build 12000.
+ This package contains module for PKCS11 keys support in Crypto Pro CSP
+ .
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: cprocsp-rdr-edoc-64
+Version: 5.0.12000-6
+Architecture: amd64
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 68
+Depends: libc6 (>= 2.3), lsb-cprocsp-rdr-64, libgcc1, libstdc++6, cprocsp-rdr-pcsc-64 (>= 5.0), cprocsp-rdr-pcsc-64 (<< 6.0)
+Priority: extra
+Section: alien
+Filename: pool/main/c/cprocsp-rdr-edoc-64/cprocsp-rdr-edoc-64_5.0.12000-6_amd64.deb
+Size: 11436
+SHA256: 0dda30687a89e0d0709cfbb790df40303f85bb46de40f54dff880388322e9ba8
+SHA1: 3efdcd09874ff0852f3a2b7427750c4509b5df10
+MD5sum: b8c69bd632ea0938fff0cd3a624a6249
+Description: Electronic documents support module
+ This package contains module for Electronic documents support in Crypto Pro CSP
+ .
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: cprocsp-rdr-emv-64
+Version: 5.0.12000-6
+Architecture: amd64
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 72
+Depends: libc6 (>= 2.2.5), lsb-cprocsp-rdr-64, libgcc1, libstdc++6, cprocsp-rdr-pcsc-64 (>= 5.0), cprocsp-rdr-pcsc-64 (<< 6.0)
+Priority: extra
+Section: alien
+Filename: pool/main/c/cprocsp-rdr-emv-64/cprocsp-rdr-emv-64_5.0.12000-6_amd64.deb
+Size: 12538
+SHA256: 3717b7acf089e080c821dad6ec96b46907cf089ef93bdbf4f0ce74ba179c2817
+SHA1: 63eba5a44cfa47de70949840b18da2ccf86e84b8
+MD5sum: 8626685de090a16bdfe16f381b8c28b4
+Description: EMV/Gemalto support module
+ This package contains module for EMV and Gemalto key carriers support in Crypto Pro CSP
+ .
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: cprocsp-rdr-esmart-64
+Version: 5.0.12000-6
+Architecture: amd64
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 263
+Depends: libc6 (>= 2.2.5), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.1.1), lsb-cprocsp-rdr-64, cprocsp-rdr-pcsc-64 (>= 5.0), cprocsp-rdr-pcsc-64 (<< 6.0)
+Priority: extra
+Section: alien
+Filename: pool/main/c/cprocsp-rdr-esmart-64/cprocsp-rdr-esmart-64_5.0.12000-6_amd64.deb
+Size: 113308
+SHA256: 1ba9da95cf4e2d9a6e2d9d04b7b51ccdcde0c4d04db3a72b400e5f6abec37b3e
+SHA1: de80a76b549ed2c0ba34436d7b1027d5a354e740
+MD5sum: f80157532458826392af1e02127ee700
+Description: Esmart support module
+ This package contains module for Esmart key carriers support in Crypto Pro CSP
+ .
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: cprocsp-rdr-gui-gtk-64
+Version: 5.0.12000-6
+Architecture: amd64
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 390
+Depends: libc6, libgcc1, libstdc++6, lsb-cprocsp-rdr-64 (>= 5.0), lsb-cprocsp-rdr-64 (<< 6.0)
+Priority: extra
+Section: alien
+Filename: pool/main/c/cprocsp-rdr-gui-gtk-64/cprocsp-rdr-gui-gtk-64_5.0.12000-6_amd64.deb
+Size: 136946
+SHA256: a5c01c6c4a22ea757fed594ff0275de42b89c093c44e8c0488f18242d35b0355
+SHA1: 87d572ecf1fed488931610a07bf26da68b0bffc2
+MD5sum: f04a6670de372115b2921bc201c0b878
+Description: CryptoPro CSP GTK GUI components. Build 12000.
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: cprocsp-rdr-infocrypt-64
+Version: 5.0.12000-6
+Architecture: amd64
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 125
+Depends: libc6 (>= 2.2.5), lsb-cprocsp-rdr-64, libgcc1, libstdc++6, cprocsp-rdr-pcsc-64 (>= 5.0), cprocsp-rdr-pcsc-64 (<< 6.0)
+Priority: extra
+Section: alien
+Filename: pool/main/c/cprocsp-rdr-infocrypt-64/cprocsp-rdr-infocrypt-64_5.0.12000-6_amd64.deb
+Size: 33364
+SHA256: 405d95c5687784cacec8447850cc896c5374cd5302a761f3aef69559e9dc3051
+SHA1: 9e03f2bc2942ae4712a51fc4361236ab3bfa5a58
+MD5sum: 74adb2784cd7f65e1a863f7c5c36f3bf
+Description: Infocrypt FKC support module
+ This package contains support module for Infocrypt tokens in Crypto Pro CSP
+ .
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: cprocsp-rdr-inpaspot-64
+Version: 5.0.12000-6
+Architecture: amd64
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 75
+Depends: libc6 (>= 2.2.5), lsb-cprocsp-rdr-64, libgcc1, libstdc++6, cprocsp-rdr-pcsc-64 (>= 5.0), cprocsp-rdr-pcsc-64 (<< 6.0)
+Priority: extra
+Section: alien
+Filename: pool/main/c/cprocsp-rdr-inpaspot-64/cprocsp-rdr-inpaspot-64_5.0.12000-6_amd64.deb
+Size: 12006
+SHA256: 1718052d67b2aebf4b8e7d3a593c5c8166fd30a50ed1b6e8a5ab9722e89a8977
+SHA1: a6d4a6d0bf2507403c793b1d83b5d1ec76bd0fd9
+MD5sum: f71d08fb03d3ddcc4427fa1a27aecedc
+Description: Inpaspot support module
+ This package contains module for inpaspot carriers support in Crypto Pro CSP
+ .
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: cprocsp-rdr-jacarta-64
+Version: 5.0.0
+Architecture: amd64
+Maintainer: Aladdin R.D. <aladdin@aladdin-rd.ru>
+Installed-Size: 1408
+Depends: cprocsp-rdr-pcsc-64
+Breaks: openct
+Priority: extra
+Section: misc
+Filename: pool/main/c/cprocsp-rdr-jacarta-64/cprocsp-rdr-jacarta-64_5.0.0_amd64.deb
+Size: 362986
+SHA256: 7453ecbc130379802fdbe23c91b26bdeac71465697458df832bde62fabca0af4
+SHA1: 7e4661cc9df279c9f88987d51382bfb3fea67e0e
+MD5sum: 63f786811afe7b58b2f0328924e333f5
+Description: JaCarta components for CryptoPro CSP for use JaCarta devices. Build 1237.
+
+Package: cprocsp-rdr-kst-64
+Version: 5.0.12000-6
+Architecture: amd64
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 66
+Depends: libc6 (>= 2.2.5), lsb-cprocsp-rdr-64, libgcc1, libstdc++6, cprocsp-rdr-pcsc-64 (>= 5.0), cprocsp-rdr-pcsc-64 (<< 6.0)
+Priority: extra
+Section: alien
+Filename: pool/main/c/cprocsp-rdr-kst-64/cprocsp-rdr-kst-64_5.0.12000-6_amd64.deb
+Size: 10050
+SHA256: 15743645002da705996cf721b30c7df0a61889c4a2d111d9fa64aea2ac0f4116
+SHA1: 17e34ae88faf23e0089ed34f077912a6284bb5cb
+MD5sum: 60f5229f53326ed5a7543b70baa30692
+Description: MorphoKST support module
+ This package contains module for MorphoKST carriers support in Crypto Pro CSP
+ .
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: cprocsp-rdr-mskey-64
+Version: 5.0.12000-6
+Architecture: amd64
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 65
+Depends: libc6 (>= 2.2.5), lsb-cprocsp-rdr-64, libgcc1, libstdc++6, cprocsp-rdr-pcsc-64 (>= 5.0), cprocsp-rdr-pcsc-64 (<< 6.0)
+Priority: extra
+Section: alien
+Filename: pool/main/c/cprocsp-rdr-mskey-64/cprocsp-rdr-mskey-64_5.0.12000-6_amd64.deb
+Size: 9744
+SHA256: 3932bc537a6d35bd07b12202477ef44e26f9461a8043c3e02c0626aae3c98c58
+SHA1: 2057c6592175f5336e84f5e858345607b51e9d26
+MD5sum: 2a87433ca4c5acd32e7eb0716a3b146c
+Description: Mskey support module
+ This package contains module for mskey carriers support in Crypto Pro CSP
+ .
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: cprocsp-rdr-novacard-64
+Version: 5.0.12000-6
+Architecture: amd64
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 65
+Depends: libc6 (>= 2.2.5), lsb-cprocsp-rdr-64, libgcc1, libstdc++6, cprocsp-rdr-pcsc-64 (>= 5.0), cprocsp-rdr-pcsc-64 (<< 6.0)
+Priority: extra
+Section: alien
+Filename: pool/main/c/cprocsp-rdr-novacard-64/cprocsp-rdr-novacard-64_5.0.12000-6_amd64.deb
+Size: 9944
+SHA256: 635ae3eb4cd301cf06aaa9bf4e23510bfceab45ad90941c3da61230ef5b1b62c
+SHA1: 1a532adb3d72f857d9bd2715716a440ee4b8ae14
+MD5sum: 24bccd9f1cd794471eb42dd30f51c71b
+Description: Novacard support module
+ This package contains module for Novacard key carriers support in Crypto Pro CSP
+ .
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: cprocsp-rdr-pcsc-64
+Version: 5.0.12000-6
+Architecture: amd64
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 171
+Depends: libc6 (>= 2.3), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.1.1), lsb-cprocsp-rdr-64 (>= 5.0), lsb-cprocsp-rdr-64 (<< 6.0)
+Priority: extra
+Section: alien
+Filename: pool/main/c/cprocsp-rdr-pcsc-64/cprocsp-rdr-pcsc-64_5.0.12000-6_amd64.deb
+Size: 45738
+SHA256: 7e93b8762aac9af168719bd4525585329757bdd57583c3303472c69e1b01de81
+SHA1: 7cd4a87d816b265f14320f2a963783a1dffadee2
+MD5sum: 95737d222484139a5ecf4e471e362d33
+Description: CryptoPro CSP. PC/SC devices support. Build 12000.
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: cprocsp-rdr-relay-64
+Version: 5.0.12000-6
+Architecture: amd64
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 86
+Depends: libc6 (>= 2.2.5), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.1.1), lsb-cprocsp-rdr-64 (>= 5.0), lsb-cprocsp-rdr-64 (<< 6.0)
+Priority: extra
+Section: alien
+Filename: pool/main/c/cprocsp-rdr-relay-64/cprocsp-rdr-relay-64_5.0.12000-6_amd64.deb
+Size: 20424
+SHA256: acee305f3f4baeea00b421524bc2e7c64a9f7cb5cb158f463d5d58f2b461fb5e
+SHA1: 4a3f1c1956c72957ebe737887c81126c9f02daf3
+MD5sum: b58cf9798f0e8074b75329ad24e57ca8
+Description: Module for other CSP keys support. Build 12000.
+ This package contains module for other CSP keys support in Crypto Pro CSP
+ .
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: cprocsp-rdr-rosan-64
+Version: 5.0.12000-6
+Architecture: amd64
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 67
+Depends: libc6 (>= 2.2.5), lsb-cprocsp-rdr-64, libgcc1, libstdc++6, cprocsp-rdr-pcsc-64 (>= 5.0), cprocsp-rdr-pcsc-64 (<< 6.0)
+Priority: extra
+Section: alien
+Filename: pool/main/c/cprocsp-rdr-rosan-64/cprocsp-rdr-rosan-64_5.0.12000-6_amd64.deb
+Size: 9672
+SHA256: c25cd7d23d8f517ec4c5eb8b443362b89d657898d89214971ad7040b72755cfd
+SHA1: dee91c6b60e6e5081435c449e5ca84767a8751f0
+MD5sum: 8ad3037bbdebf11a2538b7c63d27975a
+Description: Rosan support module
+ This package contains module for Rosan key carriers support in Crypto Pro CSP
+ .
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: cprocsp-rdr-rutoken-64
+Version: 5.0.12000-6
+Architecture: amd64
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 295
+Depends: libc6 (>= 2.4), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.4.0), lsb-cprocsp-rdr-64, cprocsp-rdr-pcsc-64 (>= 5.0), cprocsp-rdr-pcsc-64 (<< 6.0)
+Priority: extra
+Section: alien
+Filename: pool/main/c/cprocsp-rdr-rutoken-64/cprocsp-rdr-rutoken-64_5.0.12000-6_amd64.deb
+Size: 101082
+SHA256: ef61bb870a6c25a77fd29481a82fe0938c34b9e873e6580f0c2e19e47363299c
+SHA1: 380e11308e2af5312dd34a581efda3a7bce0d3c3
+MD5sum: b0d81066bf04eba5076509e1b35e6c21
+Description: Rutoken support module
+ This package contains module for Rutoken key carriers support in Crypto Pro CSP
+ .
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: cprocsp-stunnel-64
+Version: 5.0.12000-6
+Architecture: amd64
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 315
+Depends: libc6 (>= 2.3), libgcc1 (>= 1:4.1.1), libpam0g (>= 0.99.7.1), libstdc++6 (>= 4.1.1), lsb-cprocsp-capilite-64 (>= 5.0), lsb-cprocsp-rdr-64, lsb-cprocsp-capilite-64 (<< 6.0)
+Priority: extra
+Section: alien
+Filename: pool/main/c/cprocsp-stunnel-64/cprocsp-stunnel-64_5.0.12000-6_amd64.deb
+Size: 122880
+SHA256: d6d82b0088e21b3ab329b1d4843060d3e22436cc576f164bfd4c091fe3f07f43
+SHA1: 24d50061592a661c7988504bff6daf0200b44bbf
+MD5sum: 45b2fd81526b5c5af5cea99e7813f226
+Description: CryptoPro Universal SSL/TLS tunnel. Build 12000.
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: cprocsp-stunnel-msspi-64
+Version: 5.0.12000-6
+Architecture: amd64
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 298
+Depends: libc6 (>= 2.11), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.1.1), lsb-cprocsp-capilite-64 (>= 5.0), lsb-cprocsp-rdr-64, lsb-cprocsp-capilite-64 (<< 6.0)
+Priority: extra
+Section: alien
+Filename: pool/main/c/cprocsp-stunnel-msspi-64/cprocsp-stunnel-msspi-64_5.0.12000-6_amd64.deb
+Size: 108894
+SHA256: 30d3134432e13d9bf18a56b1fe09deff4a88c379a09ff9f844447105872f5ee9
+SHA1: e9c0428063434e55f85d0a7f970efd8a9f0a0446
+MD5sum: fb20d69989b883a4fb50d0c40eeaa7c9
+Description: CryptoPro Universal SSL/TLS tunnel based on msspi. Build 12000.
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: cprocsp-xer2print
+Version: 5.0.12000-6
+Architecture: all
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 445
+Depends: lsb-cprocsp-base (>= 5.0), lsb-cprocsp-base (<< 6.0)
+Priority: extra
+Section: alien
+Filename: pool/main/c/cprocsp-xer2print/cprocsp-xer2print_5.0.12000-6_all.deb
+Size: 47660
+SHA256: 2fee6f076c01628872a3a0799613a89098ae8a5a30920309a0c259b4ffdb385f
+SHA1: 59a703b436cb9ae022d52c5464142d360c4733ea
+MD5sum: 369d90583e518627ace85c3a6a9fd977
+Description: CryptoPro utility and templates to convert xer to pdf/ps/html documents. Build 12000.
+ .
+ This package contains scripts and xsl templates to convert xer files to pdf/ps/html documents.
+ .
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: ifd-rutokens
+Version: 1.0.4
+Architecture: amd64
+Maintainer: Aktiv Co. <hotline@rutoken.ru>
+Installed-Size: 240
+Depends: libc6 (>= 2.3.2), libusb-0.1-4 (>= 2:0.1.12)
+Priority: optional
+Section: libs
+Filename: pool/main/i/ifd-rutokens/ifd-rutokens_1.0.4_amd64.deb
+Size: 60672
+SHA256: 3804339fd099d962e005659130135d733c64cf3126d1731737d854bfe06ea8ef
+SHA1: f3e6dd6c98be68a252d25a6a674056babed7b844
+MD5sum: e121a34b6120e0300b8a2800058378a5
+Description: Aktiv Co Rutoken S driver
+ Allows users to access Rutoken S through pcsc-lite.
+
+Package: lsb-cprocsp-base
+Version: 5.0.12000-6
+Architecture: all
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 848
+Depends: lsb-base
+Priority: extra
+Section: alien
+Filename: pool/main/l/lsb-cprocsp-base/lsb-cprocsp-base_5.0.12000-6_all.deb
+Size: 200996
+SHA256: 58968a0bab4abf242a16405bedf2d6ae227775682b1f26a6e4cce709eb3bc689
+SHA1: 2261f4614d99c218897d7ffb8723d9ab8a1bff6f
+MD5sum: 3e1e1c21301d8dfb4e9bb43068c9bbdc
+Description: CryptoPro CSP directories and scripts. Build 12000.
+ This package contains basic directories, supplementary files and directory structure for CryptoPro CSP.
+ Install this package if you plan to use any of CryptoPro CSP products.
+ .
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: lsb-cprocsp-ca-certs
+Version: 5.0.12000-6
+Architecture: all
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 84
+Depends: lsb-cprocsp-capilite-noarch
+Priority: extra
+Section: alien
+Filename: pool/main/l/lsb-cprocsp-ca-certs/lsb-cprocsp-ca-certs_5.0.12000-6_all.deb
+Size: 8176
+SHA256: f5f5172ce248bbcfcb29c8c941ba484b5fb80d08f989669a3f4437b83cf2e6f4
+SHA1: bb5c963a68151828f28fcf296a6882c31539ba19
+MD5sum: 039bcb612157a49b671a5ca4bb34e52d
+Description: CryptoPro CA certificates. Build 12000.
+ .
+ This package contains authorized root and intermediate CA certificates.
+ .
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: lsb-cprocsp-capilite-64
+Version: 5.0.12000-6
+Architecture: amd64
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 23593
+Depends: libc6 (>= 2.7), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.4.0), lsb-cprocsp-rdr-64 (>= 5.0.11271), lsb-cprocsp-kc1-64, lsb-cprocsp-rdr-64 (<< 6.0)
+Breaks: lsb-cprocsp-rdr-64 (<< 5.0.11271)
+Replaces: lsb-cprocsp-rdr-64 (<< 5.0.11271)
+Provides: lsb-cprocsp-capilite-noarch
+Priority: extra
+Section: alien
+Filename: pool/main/l/lsb-cprocsp-capilite-64/lsb-cprocsp-capilite-64_5.0.12000-6_amd64.deb
+Size: 6428364
+SHA256: 73e38d32c011ac3fe81d131bf001b4d4185ab7dd138671eae9aaac185892bc3c
+SHA1: 085c982a4bd6a52def522bd734e26a8244d9b08a
+MD5sum: e70da139079ac4570c7f6d350732aa6f
+Description: CryptoPro CSP. CryptoAPI Lite libraries and applications. Build 12000.
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: lsb-cprocsp-devel
+Version: 5.0.12000-6
+Architecture: all
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 9624
+Depends: lsb-cprocsp-base (>= 5.0), lsb-cprocsp-base (<< 6.0)
+Priority: extra
+Section: alien
+Filename: pool/main/l/lsb-cprocsp-devel/lsb-cprocsp-devel_5.0.12000-6_all.deb
+Size: 1487050
+SHA256: b2e76c02c79931f64eef740a3502125386a8e0be89628d1df4910ae6dc6b4690
+SHA1: de01c047f4aac04db91bce98bb810b4704ffad46
+MD5sum: a99a026cd8db7161952fa4fc2d4febb4
+Description: CryptoPro CSP developer headers and examples. Build 12000.
+ .
+ This package contains static libraries and header files required when developing applications. Also it includes source code for csptest, der2xer and pkixcmp examples.
+ Install this package if you plan to develop any applications using CryptoPro CSP libraries.
+ .
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: lsb-cprocsp-import-ca-certs
+Version: 5.0.12000-6
+Architecture: all
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 45
+Depends: lsb-cprocsp-capilite-noarch
+Priority: extra
+Section: alien
+Filename: pool/main/l/lsb-cprocsp-import-ca-certs/lsb-cprocsp-import-ca-certs_5.0.12000-6_all.deb
+Size: 3124
+SHA256: ff0da55df28aaf07c0136993cadf7c827441fe178f7d0c03aae775ae13068659
+SHA1: ebce6bf674d147d121f667364fb8fdb739df0712
+MD5sum: b48573057a644eb13833b3644e5358ed
+Description: Import OS root certificates in CryptoPro CSP. Build 12000.
+ .
+ This package imports OS root certificates in CryptoPro CSP trusted root store.
+ .
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: lsb-cprocsp-kc1-64
+Version: 5.0.12000-6
+Architecture: amd64
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 3080
+Depends: libc6 (>= 2.7), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.1.1), lsb-cprocsp-rdr-64 (>= 5.0), lsb-cprocsp-rdr-64 (<< 6.0)
+Priority: extra
+Section: alien
+Filename: pool/main/l/lsb-cprocsp-kc1-64/lsb-cprocsp-kc1-64_5.0.12000-6_amd64.deb
+Size: 1095194
+SHA256: 313e8686118ccba397de0bdfca101f1053b758227fd9d3510ea78644f2450bfe
+SHA1: 633fff5b48a1470183ece59d82cfae33a0e4d8f8
+MD5sum: 8d92d4941b64b08d01bf0ac93f1a5e80
+Description: CryptoPro CSP KC1. Build 12000.
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: lsb-cprocsp-kc2-64
+Version: 5.0.12000-6
+Architecture: amd64
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 4207
+Depends: libc6 (>= 2.7), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.1.1), lsb-cprocsp-rdr-64 (>= 5.0), lsb-cprocsp-rdr-64 (<< 6.0)
+Provides: lsb-cprocsp-kc1-64
+Priority: extra
+Section: alien
+Filename: pool/main/l/lsb-cprocsp-kc2-64/lsb-cprocsp-kc2-64_5.0.12000-6_amd64.deb
+Size: 1398674
+SHA256: 0cba09fd138598a8f749df487e668f714c287b7720fde217f48e4e52d1408b6f
+SHA1: 2b302ed1fc2dd40f3c79a926012dba055c5f2d6f
+MD5sum: e60d443b720616c4937a80b9a57d6eb5
+Description: CryptoPro CSP KC2. Build 12000.
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: lsb-cprocsp-pkcs11-64
+Version: 5.0.12000-6
+Architecture: amd64
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 1045
+Depends: libc6 (>= 2.7), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.1.1), lsb-cprocsp-capilite-64, lsb-cprocsp-rdr-64 (>= 5.0), lsb-cprocsp-rdr-64 (<< 6.0)
+Priority: extra
+Section: alien
+Filename: pool/main/l/lsb-cprocsp-pkcs11-64/lsb-cprocsp-pkcs11-64_5.0.12000-6_amd64.deb
+Size: 274984
+SHA256: 7b02f674f6325166b658129cc299f68a0119d23171a8e0151b24e21a430c91f7
+SHA1: 9e4796a7dfca6a5fc15dc1d1a3ef7321506fad19
+MD5sum: 098838cf8745820dd469599fb47dd530
+Description: CryptoPro PKCS11. Build 12000.
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: lsb-cprocsp-rcrypt-64
+Version: 5.0.12000-6
+Architecture: amd64
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 367
+Depends: libc6 (>= 2.2.5), libgcc1, libstdc++6, lsb-cprocsp-rdr-64 (>= 5.0), lsb-cprocsp-rdr-64 (<< 6.0)
+Priority: extra
+Section: alien
+Filename: pool/main/l/lsb-cprocsp-rcrypt-64/lsb-cprocsp-rcrypt-64_5.0.12000-6_amd64.deb
+Size: 99918
+SHA256: 10e43ac7b8d7d4f425b9c2e68f1174bc07c544b914d98aa1d390b601e7f4d6d9
+SHA1: 82ab694a9f656a5225c1a51602b0ccc62eeee2fd
+MD5sum: b347aca61bd1f42f1e607cca62fac923
+Description: CryptoPro libcrypt with PBKDF2_HMAC_GOSTR3411_2012_512 support
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: lsb-cprocsp-rdr-64
+Version: 5.0.12000-6
+Architecture: amd64
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 1482
+Depends: libc6 (>= 2.7), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.4.0), lsb-cprocsp-base (>= 5.0), lsb-cprocsp-base (<< 6.0)
+Priority: extra
+Section: alien
+Filename: pool/main/l/lsb-cprocsp-rdr-64/lsb-cprocsp-rdr-64_5.0.12000-6_amd64.deb
+Size: 601234
+SHA256: f4abbdb3f83d982569c5cd30ce5ad63ec4e49011d165e17a2c59d9a613f163b9
+SHA1: ebb3032c96aad28bc0c0973284da7a81915d93bb
+MD5sum: 4c2328ad31e875e50f6b8a08a96f3430
+Description: CryptoPro CSP common libraries and utilities. Build 12000.
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: lsb-cprocsp-rdr-accord-64
+Version: 5.0.12000-6
+Architecture: amd64
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 68
+Depends: libc6 (>= 2.2.5), lsb-cprocsp-rdr-64 (>= 5.0), libgcc1, libstdc++6, lsb-cprocsp-rdr-64 (<< 6.0)
+Priority: extra
+Section: alien
+Filename: pool/main/l/lsb-cprocsp-rdr-accord-64/lsb-cprocsp-rdr-accord-64_5.0.12000-6_amd64.deb
+Size: 9948
+SHA256: c8424ca87f102ed2c5c4f15a32bff3c32beb9816d17ce0682c5afb778f5d4dbb
+SHA1: 4ff57f7c55dda7771b9a14360a335f0debe44a08
+MD5sum: 806a5f9d8346af331fa2b64558d3bc1f
+Description: CryptoPro CSP. Accord RNG support module. Build 12000.
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: lsb-cprocsp-rdr-ancud-64
+Version: 5.0.12000-6
+Architecture: amd64
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 66
+Depends: libc6 (>= 2.3), lsb-cprocsp-rdr-64 (>= 5.0), libgcc1, libstdc++6, lsb-cprocsp-rdr-64 (<< 6.0)
+Priority: extra
+Section: alien
+Filename: pool/main/l/lsb-cprocsp-rdr-ancud-64/lsb-cprocsp-rdr-ancud-64_5.0.12000-6_amd64.deb
+Size: 10044
+SHA256: 837be62148bcd89887eca1d0c941df3a308ea0e0869b93e76f3eb0dca05d5706
+SHA1: 1d256590ccbc2541682ca28a332dffe371cb064b
+MD5sum: 6825420ecd7e86f74c77eb9680c97390
+Description: CryptoPro CSP. ANCUD CRYPTON-SCR/RNG support module. Build 12000.
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: lsb-cprocsp-rdr-crypton-64
+Version: 5.0.12000-6
+Architecture: amd64
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 77
+Depends: libc6 (>= 2.2.5), lsb-cprocsp-rdr-64 (>= 5.0), libgcc1, libstdc++6, lsb-cprocsp-rdr-64 (<< 6.0)
+Priority: extra
+Section: alien
+Filename: pool/main/l/lsb-cprocsp-rdr-crypton-64/lsb-cprocsp-rdr-crypton-64_5.0.12000-6_amd64.deb
+Size: 12666
+SHA256: 811705c697abf23a4cee3ce0211b3a9dfd16d4a869e23d4bb73d1654d1b06304
+SHA1: 30f4a173c55fcbfdd8b7b896466a1c76d94a9c04
+MD5sum: f826b2b095944fc75152d26e00021b40
+Description: CryptoPro CSP. ANCUD APMDZ Crypton-Lock RNG support module. Build 12000.
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: lsb-cprocsp-rdr-maxim-64
+Version: 5.0.12000-6
+Architecture: amd64
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 59
+Depends: libc6 (>= 2.2.5), lsb-cprocsp-rdr-64 (>= 5.0), libgcc1, libstdc++6, lsb-cprocsp-rdr-64 (<< 6.0)
+Priority: extra
+Section: alien
+Filename: pool/main/l/lsb-cprocsp-rdr-maxim-64/lsb-cprocsp-rdr-maxim-64_5.0.12000-6_amd64.deb
+Size: 7014
+SHA256: b51ac5240528d6a9ea2358ec4c4a0fa1bc767023666588da3de04d7b31f7b526
+SHA1: a4e13b7ff02b87cef1f6e0682159c2c2291c5a00
+MD5sum: 0424ec72cc95e90ea630db74c26a84b7
+Description: CryptoPro CSP. Maxim RNG support module. Build 12000.
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: lsb-cprocsp-rdr-sobol-64
+Version: 5.0.12000-6
+Architecture: amd64
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 60
+Depends: libc6 (>= 2.2.5), lsb-cprocsp-rdr-64 (>= 5.0), libgcc1, libstdc++6, lsb-cprocsp-rdr-64 (<< 6.0)
+Priority: extra
+Section: alien
+Filename: pool/main/l/lsb-cprocsp-rdr-sobol-64/lsb-cprocsp-rdr-sobol-64_5.0.12000-6_amd64.deb
+Size: 7164
+SHA256: 1fdad8a998ca31856a32ebf8f5fa939c72ea347559afafa4f42aef20a82696f0
+SHA1: 11fbe3e0cf497044554ff0dc87a9384a7692dcaa
+MD5sum: 3a7441c3da999aba9b539ac075b44692
+Description: CryptoPro CSP. Sobol RNG support module. Build 12000.
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: lsb-cprocsp-rdr-vityaz-64
+Version: 5.0.12000-6
+Architecture: amd64
+Maintainer: CryptoPro Ltd. <support@cryptopro.ru>
+Installed-Size: 59
+Depends: libc6 (>= 2.2.5), lsb-cprocsp-rdr-64 (>= 5.0), libgcc1, libstdc++6, lsb-cprocsp-rdr-64 (<< 6.0)
+Priority: extra
+Section: alien
+Filename: pool/main/l/lsb-cprocsp-rdr-vityaz-64/lsb-cprocsp-rdr-vityaz-64_5.0.12000-6_amd64.deb
+Size: 7080
+SHA256: 617bd893a11231fc9e572ca0d1c81e182c692892626a285cd0f06f79d7605a2e
+SHA1: 134927e676f7ea856296ebaaf8c5edd02da32409
+MD5sum: dec10e47afaa46e9aa1eaca0eb94227b
+Description: CryptoPro CSP. Kraftway APMDZ Vityaz RNG support module. Build 12000.
+ (Converted from a rpm package by alien version 8.86.)
+

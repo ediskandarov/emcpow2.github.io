@@ -1,0 +1,19 @@
+Origin: emcpow2.github.io/debian
+Label: emcpow2.github.io/debian
+Codename: buster
+Date: Sat, 15 Apr 2023 11:25:03 UTC
+Architectures: amd64
+Components: main
+Description: Personal repository
+MD5Sum:
+ 955d396fc77abbb0a75f06974ae120a1 32190 main/binary-amd64/Packages
+ 7caf334c4c5bce0d9a7e6c4954f6c6ce 7453 main/binary-amd64/Packages.gz
+ 8e006ab1cca413f30a6169f1918deeb1 134 main/binary-amd64/Release
+SHA1:
+ 2776f3f76d981ef3a32702f1caa0009856df980c 32190 main/binary-amd64/Packages
+ 2d91a8dd31a8d0c14f530841f2d9536e84a4d385 7453 main/binary-amd64/Packages.gz
+ 266773b37f8cacf4deb6d67417914ae8f1f13f22 134 main/binary-amd64/Release
+SHA256:
+ 0e2f47304f7a4930810b008791e60f452c3383d587928f5c5528a9030c13d187 32190 main/binary-amd64/Packages
+ 1305a5fe2c9d5a7e1ca3c598a4db0e6b994d7e700496bd7717a56c511927b36d 7453 main/binary-amd64/Packages.gz
+ 499cfbd04b1c706ae4882479c35be58c238ecc9f9029343d56ab963ca7e27e8d 134 main/binary-amd64/Release
